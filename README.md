@@ -7,3 +7,5 @@ Aquí os dejo mi versión del famoso juego 2048 cuyo objetivo es conseguir que u
 Para su construcción se ha utilizado dos clases: class Tablero que contiene el método recursivo hacerFusiones y  class TestTablero que inicia la aplicación.
 
 Espero que disfrutes aprendiendo...
+
+El proyecto está desarrollado con NetBeans IDE 8.2
