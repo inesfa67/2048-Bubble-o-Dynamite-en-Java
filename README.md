@@ -1,5 +1,5 @@
-# Java
-Java para todos
+# 2048-Bubble-o-Dynamite-en-Java
+
 ¿Algúna vez te has preguntado cómo hacer 2048 Bubble o Dynamite en Java?
 
 Aquí os dejo mi versión del famoso juego 2048 cuyo objetivo es conseguir que una de las piezas del tablero llegue al valor 2048.
